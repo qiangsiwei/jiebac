@@ -1,0 +1,3 @@
+/Users/kroegera/Downloads/jieba_cpy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kroegera/Downloads/jieba_cpy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kroegera/Downloads/jieba_cpy/cmake-build-debug/CMakeFiles/jieba_cpy.dir
