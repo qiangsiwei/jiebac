@@ -20,4 +20,4 @@ print jieba.ucut(text,True)
 
 对于python实现（https://github.com/fxsjy/jieba）
 
-![https://github.com/qiangsiwei/jiebac/blob/master/data/perf.png](https://github.com/qiangsiwei/jiebac/blob/master/data/perf.png)
+![https://github.com/qiangsiwei/jiebac/blob/master/perf.png](https://github.com/qiangsiwei/jiebac/blob/master/perf.png)
